@@ -27,7 +27,6 @@ This app was made as my second project during my Internshala Training.
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/7.Book_Details.jpeg" width="250" height="450"/>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/8.Book_Details_Added_to_Favourites.jpeg" width="250" height="450"/>
 
-<h3>WhatsApp Images</h3>
 <h4>Previous Year Paper</h4>
 <img src="https://github.com/user-attachments/assets/c8e656e6-29be-4b18-b1b6-2d6b9d3b1d92" width="250" height="450"/>
 
