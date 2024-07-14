@@ -1,6 +1,6 @@
 # **Book Recommendation and Learning Platform**
 
-**Empowering Students through Shared Knowledge**
+## **Empowering Students through Shared Knowledge**
 
 This innovative app facilitates a community-driven approach to book recommendations, learning, and growth. Students can:
 
@@ -9,14 +9,14 @@ This innovative app facilitates a community-driven approach to book recommendati
 - Access previous years' question papers and notes shared by seniors
 - Benefit from a collaborative learning environment
 
-#Key Features:
+## **Key Features:**
 
 - Student-driven book recommendations with ratings and reviews
 - In-depth book descriptions highlighting personal value additions
 - Previous years' question papers and notes shared by seniors
 - Collaborative learning platform for students to learn from each other
 
-#Value Proposition:
+## **Value Proposition:**
 
 This app fosters a supportive community where students can learn from each other, gain valuable insights, and make informed decisions about their reading material. By leveraging collective knowledge, students can enhance their academic journey and personal growth.
 
