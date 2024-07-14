@@ -14,6 +14,7 @@ This app was made as my second project during my Internshala Training.
 <h3>Navigation Drawer</h3>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/2.Navigation_Drawer.jpeg" width="250" height="450"/>
 
+
 <h3>Sorted List according to Rating</h3>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/6.Book_List_Sorted_by_Rating.jpeg" width="250" height="450"/>
 
@@ -35,3 +36,8 @@ This app was made as my second project during my Internshala Training.
 
 <h4>End/Misem Syllabus + Paper + Notes</h4>
 <img src="https://github.com/user-attachments/assets/6404f1c6-492b-4b7f-9721-1fce9add0d94" width="250" height="450"/>
+<img src="https://github.com/user-attachments/assets/6404f1c6-492b-4b7f-9721-1fce9add0d94" width="250" height="450"/>
+
+
+<h4>Welcome to BookHub!</h4>
+<img src="https://github.com/user-attachments/assets/42de4373-3b5d-433f-9bfa-5f90bd2d8975" width="250" height="450"/>
