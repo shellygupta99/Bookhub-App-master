@@ -1,6 +1,6 @@
-#Book Recommendation and Learning Platform
+# **Book Recommendation and Learning Platform**
 
-#Empowering Students through Shared Knowledge
+**Empowering Students through Shared Knowledge**
 
 This innovative app facilitates a community-driven approach to book recommendations, learning, and growth. Students can:
 
