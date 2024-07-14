@@ -8,6 +8,10 @@ This app was made as my second project during my Internshala Training.
 3. Favourites</br>
 4. DBA AsyncTask for storing databases on the user's phone</br>
 
+
+<h4>Welcome to BookHub!</h4>
+<img src="https://github.com/user-attachments/assets/42de4373-3b5d-433f-9bfa-5f90bd2d8975" width="250" height="450"/>
+
 <h3>Main Books Page</h3>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/1.Book_Main_Menu.jpeg" width="250" height="450"/>
 
@@ -36,8 +40,4 @@ This app was made as my second project during my Internshala Training.
 
 <h4>End/Misem Syllabus + Paper + Notes</h4>
 <img src="https://github.com/user-attachments/assets/6404f1c6-492b-4b7f-9721-1fce9add0d94" width="250" height="450"/>
-<img src="https://github.com/user-attachments/assets/6404f1c6-492b-4b7f-9721-1fce9add0d94" width="250" height="450"/>
 
-
-<h4>Welcome to BookHub!</h4>
-<img src="https://github.com/user-attachments/assets/42de4373-3b5d-433f-9bfa-5f90bd2d8975" width="250" height="450"/>
