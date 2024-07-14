@@ -29,4 +29,9 @@ This app was made as my second project during my Internshala Training.
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/7.Book_Details.jpeg" width="250" height="450"/>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/8.Book_Details_Added_to_Favourites.jpeg" width="250" height="450"/>
 
+![WhatsApp Image 2024-07-14 at 11 23 09 AM](https://github.com/user-attachments/assets/c8e656e6-29be-4b18-b1b6-2d6b9d3b1d92)
+![WhatsApp Image 2024-07-14 at 11 23 09 AM (2)](https://github.com/user-attachments/assets/95a51298-ce5e-4b9f-825c-b61380ebed1a)
+![WhatsApp Image 2024-07-14 at 11 23 09 AM (1)](https://github.com/user-attachments/assets/6404f1c6-492b-4b7f-9721-1fce9add0d94)
+
+
 
